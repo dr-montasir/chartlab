@@ -1,0 +1,15 @@
+[package]
+name = "chartlab"
+version = "0.0.0"
+edition = "2024"
+description = "A powerful Rust visualization library"
+homepage = "https://github.com/dr-montasir/chartlab"
+repository = "https://github.com/dr-montasir/chartlab"
+readme = "README.md"
+keywords = ["chart", "graph", "plot", "svg", "canvas"]
+categories = ["science", "visualization"]
+license = "MIT OR Apache-2.0"
+
+exclude = ["logo.svg", "playground.md"]
+
+[dependencies]
